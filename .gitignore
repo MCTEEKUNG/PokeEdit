@@ -1,0 +1,13 @@
+.gradle/
+build/
+run/
+out/
+.jdk21/
+*.log
+.idea/
+*.iml
+.vscode/
+/server/
+/native-bridge/
+/opencode.json
+/scripts/test-server-performance.py

@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.tee.stateditor.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BattleRegistryMixin",
+    "GraalShowdownServiceMixin",
+    "PokemonGrowthMixin",
+    "CobblemonStatProviderMixin"
+  ],
+  "client": [
+    "StaffTargetOutlineMixin",
+    "PokeEditBlurMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

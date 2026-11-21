@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "stateditor",
+  "version": "${version}",
+  "name": "Cobblemon Stat Editor",
+  "description": "PokéEdit for Cobblemon parties, with species, nickname, moves, IVs, EVs, nature, and direct stat editing.",
+  "authors": [
+    "tee"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.tee.stateditor.StatEditorMod"
+    ],
+    "client": [
+      "dev.tee.stateditor.StatEditorClient"
+    ],
+    "modmenu": [
+      "dev.tee.stateditor.client.StatEditorModMenu"
+    ]
+  },
+  "mixins": [
+    "stateditor.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "fabric-api": "*",
+    "cobblemon": ">=1.7.3",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

@@ -1,0 +1,1424 @@
+{
+  "textures": {
+    "metal": "stateditor:item/pokeedit_staff_materials",
+    "particle": "#metal"
+  },
+  "elements": [
+    {
+      "name": "ebony spine",
+      "from": [
+        7.36,
+        -0.9,
+        7.36
+      ],
+      "to": [
+        8.64,
+        10.6,
+        8.64
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.0,
+            0,
+            2.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0,
+            2.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0,
+            2.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            0.0,
+            0,
+            2.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0,
+            2.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            0.0,
+            0,
+            2.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "pommel tip",
+      "from": [
+        7.4,
+        -1.4,
+        7.4
+      ],
+      "to": [
+        8.6,
+        -0.9,
+        8.6
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "pommel cap",
+      "from": [
+        7.09,
+        -0.9,
+        7.09
+      ],
+      "to": [
+        8.91,
+        -0.34,
+        8.91
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "pommel shoulder",
+      "from": [
+        6.96,
+        -0.34,
+        6.96
+      ],
+      "to": [
+        9.04,
+        0.24,
+        9.04
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "grip heel",
+      "from": [
+        7.02,
+        0.24,
+        7.02
+      ],
+      "to": [
+        8.98,
+        0.48,
+        8.98
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "plum wrapped grip",
+      "from": [
+        7.16,
+        0.48,
+        7.16
+      ],
+      "to": [
+        8.84,
+        5.1,
+        8.84
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2.0,
+            0,
+            4.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            2.0,
+            0,
+            4.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            2.0,
+            0,
+            4.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            2.0,
+            0,
+            4.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            2.0,
+            0,
+            4.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            2.0,
+            0,
+            4.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "grip band",
+      "from": [
+        7.04,
+        5.1,
+        7.04
+      ],
+      "to": [
+        8.96,
+        5.52,
+        8.96
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "mother of pearl collar",
+      "from": [
+        7.18,
+        5.52,
+        7.18
+      ],
+      "to": [
+        8.82,
+        5.85,
+        8.82
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "collar edge",
+      "from": [
+        7.14,
+        5.85,
+        7.14
+      ],
+      "to": [
+        8.86,
+        6.05,
+        8.86
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "spine inlay",
+      "from": [
+        7.77,
+        6.17,
+        7.300000000000001
+      ],
+      "to": [
+        8.23,
+        9.25,
+        7.36
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "spine inlay",
+      "from": [
+        7.77,
+        6.17,
+        8.64
+      ],
+      "to": [
+        8.23,
+        9.25,
+        8.700000000000001
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "socket heel",
+      "from": [
+        7.14,
+        9.2,
+        7.14
+      ],
+      "to": [
+        8.86,
+        9.5,
+        8.86
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "socket throat",
+      "from": [
+        7.0,
+        9.5,
+        7.0
+      ],
+      "to": [
+        9.0,
+        10.23,
+        9.0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            10.0,
+            0,
+            12.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "socket collar",
+      "from": [
+        6.74,
+        10.23,
+        6.74
+      ],
+      "to": [
+        9.26,
+        10.68,
+        9.26
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "socket enamel",
+      "from": [
+        6.87,
+        10.68,
+        6.87
+      ],
+      "to": [
+        9.129999999999999,
+        10.98,
+        9.129999999999999
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            8.0,
+            0,
+            10.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "socket lip",
+      "from": [
+        6.68,
+        10.98,
+        6.68
+      ],
+      "to": [
+        9.32,
+        11.19,
+        9.32
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            6.0,
+            0,
+            8.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "swept gold claw",
+      "from": [
+        7.67,
+        10.43,
+        6.82
+      ],
+      "to": [
+        8.33,
+        11.93,
+        7.22
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          10.43,
+          7.02
+        ],
+        "axis": "x",
+        "angle": -22.5
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "swept gold claw",
+      "from": [
+        7.67,
+        10.43,
+        8.78
+      ],
+      "to": [
+        8.33,
+        11.93,
+        9.18
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          10.43,
+          8.98
+        ],
+        "axis": "x",
+        "angle": 22.5
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "swept gold claw",
+      "from": [
+        6.82,
+        10.43,
+        7.67
+      ],
+      "to": [
+        7.22,
+        11.93,
+        8.33
+      ],
+      "rotation": {
+        "origin": [
+          7.02,
+          10.43,
+          8
+        ],
+        "axis": "z",
+        "angle": 22.5
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "name": "swept gold claw",
+      "from": [
+        8.78,
+        10.43,
+        7.67
+      ],
+      "to": [
+        9.18,
+        11.93,
+        8.33
+      ],
+      "rotation": {
+        "origin": [
+          8.98,
+          10.43,
+          8
+        ],
+        "axis": "z",
+        "angle": -22.5
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "up": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        },
+        "down": {
+          "uv": [
+            4.0,
+            0,
+            6.0,
+            16
+          ],
+          "texture": "#metal"
+        }
+      }
+    }
+  ]
+}

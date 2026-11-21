@@ -1,0 +1,57 @@
+{
+  "item.stateditor.pokeedit_console": "PokéEdit Staff",
+  "item.stateditor.stat_console": "Stat Console",
+
+  "key.categories.stateditor": "Cobblemon Stat Editor",
+  "key.stateditor.open_editor": "Open PokéEdit (/stat ui)",
+
+  "stateditor.screen.title": "Cobblemon Stat Editor",
+  "stateditor.screen.empty_slot": "Slot %s - empty",
+  "stateditor.screen.natural": "natural: %s",
+  "stateditor.screen.level": "Level %s",
+  "stateditor.screen.empty_short": "%s - empty",
+  "stateditor.screen.world_target": "Editing a Pokémon in the world",
+  "stateditor.screen.reset_all": "Reset all",
+  "stateditor.screen.autosave": "Auto-save after typing - no Enter needed",
+
+  "stateditor.move.special_power": "Special power",
+  "stateditor.move.physical_power": "Physical power",
+  "stateditor.move.see_effect": "See effect",
+  "stateditor.move.browse": "Type a prefix, then Tab / Shift+Tab",
+  "stateditor.move.scroll": "Scroll or PgUp / PgDn to read more",
+
+  "stateditor.config.title": "Cobblemon Stat Editor",
+  "stateditor.config.min_value": "Smallest stat value",
+  "stateditor.config.max_value": "Largest stat value",
+  "stateditor.config.allow_self_edit": "Players may edit their own",
+  "stateditor.config.remove_item": "Remove console if unusable",
+  "stateditor.config.show_natural": "Show natural values",
+  "stateditor.config.save": "Save",
+  "stateditor.config.on": "On",
+  "stateditor.config.off": "Off",
+
+  "stateditor.item.pokeedit_console.tooltip_self": "Right-click away from other players to edit your party",
+  "stateditor.item.pokeedit_console.tooltip_admin": "Admins can right-click a player to edit their party",
+
+  "stateditor.message.no_permission": "You are not allowed to do that.",
+  "stateditor.message.no_such_pokemon": "That Pokémon could not be found.",
+  "stateditor.message.empty_slot": "Slot %s is empty.",
+  "stateditor.message.unknown_stat": "Unknown stat: %s",
+  "stateditor.message.out_of_range": "The value has to be between %s and %s.",
+  "stateditor.message.changed": "%s is now %s.",
+  "stateditor.message.cleared": "%s was reset to its natural value.",
+  "stateditor.message.view_header": "Slot %s - %s",
+  "stateditor.message.view_line": "%s: %s",
+  "stateditor.message.view_line_overridden": "%s: %s (natural %s)",
+  "stateditor.message.given": "Gave a PokéEdit Staff to %s.",
+  "stateditor.message.received": "You received a PokéEdit Staff.",
+  "stateditor.message.console_removed": "The PokéEdit tool was removed because you cannot use it.",
+  "stateditor.message.party_target_out_of_reach": "Move closer and keep the player in sight.",
+  "stateditor.message.party_target_unavailable": "That player is no longer available.",
+  "stateditor.message.party_client_required": "Install the same version of PokéEdit on your client.",
+  "stateditor.message.party_in_battle": "Finish the current battle before editing a party.",
+  "stateditor.message.party_load_failed": "The server could not load this party.",
+
+  "commands.stateditor.invalid_stat": "Unknown stat: %s",
+  "commands.stateditor.invalid_pairs": "Could not read the stat values: %s"
+}

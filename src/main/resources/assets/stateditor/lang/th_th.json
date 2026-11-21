@@ -1,0 +1,7 @@
+{
+  "stateditor.move.special_power": "พลังพิเศษ",
+  "stateditor.move.physical_power": "พลังกายภาพ",
+  "stateditor.move.see_effect": "ดูผลของท่า",
+  "stateditor.move.browse": "พิมพ์ต้นชื่อท่า แล้วกด Tab / Shift+Tab",
+  "stateditor.move.scroll": "เลื่อนล้อเมาส์ หรือกด PgUp / PgDn เพื่ออ่านต่อ"
+}

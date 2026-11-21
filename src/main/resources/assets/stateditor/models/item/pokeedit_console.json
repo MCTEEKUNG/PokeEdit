@@ -1,0 +1,123 @@
+{
+  "parent": "builtin/entity",
+  "gui_light": "front",
+  "textures": {
+    "particle": "cobblemon:item/poke_balls/master_ball"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        4,
+        -10,
+        14
+      ],
+      "translation": [
+        0.28,
+        2.45,
+        -2.2
+      ],
+      "scale": [
+        0.81,
+        0.81,
+        0.81
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        4,
+        -10,
+        14
+      ],
+      "translation": [
+        0.28,
+        2.45,
+        -2.2
+      ],
+      "scale": [
+        0.81,
+        0.81,
+        0.81
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        73,
+        -8,
+        -6
+      ],
+      "translation": [
+        0,
+        3.45,
+        4.5
+      ],
+      "scale": [
+        1.23,
+        1.23,
+        1.23
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        73,
+        -8,
+        -6
+      ],
+      "translation": [
+        0,
+        3.45,
+        4.5
+      ],
+      "scale": [
+        1.23,
+        1.23,
+        1.23
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        25,
+        15
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.58,
+        0.58,
+        0.58
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        -24
+      ],
+      "scale": [
+        0.94,
+        0.94,
+        0.94
+      ]
+    },
+    "gui": {
+      "rotation": [
+        6,
+        8,
+        -36
+      ],
+      "translation": [
+        0.4,
+        -0.6,
+        0
+      ],
+      "scale": [
+        1.04,
+        1.04,
+        1.04
+      ]
+    }
+  }
+}
