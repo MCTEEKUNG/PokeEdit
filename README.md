@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/pokeedit-icon.png" width="96" height="96" alt="PokéEdit icon, a purple pixel-art plant pot">
+<img src="docs/pokeedit-wand-icon.png" width="96" height="96" alt="PokéEdit wand topped with a Master Ball">
 
 <h1>PokéEdit</h1>
 <p><strong>A party and stat editor for Cobblemon</strong></p>
