@@ -3,11 +3,11 @@
 <h1>PokéEdit</h1>
 <p><strong>A party and stat editor for Cobblemon</strong></p>
 <p>Minecraft 1.21.1 · Fabric · Cobblemon 1.7.3 · Java 21</p>
-<p><a href="https://github.com/MCTEEKUNG/Mine-Mods/releases/download/v1.2.13/cobblemon-stat-editor-1.2.13.jar"><strong>Download PokéEdit 1.2.13 (.jar)</strong></a> · <a href="https://github.com/MCTEEKUNG/Mine-Mods/releases">All releases</a> · <a href="#installation">Installation</a></p>
+<p><a href="https://github.com/MCTEEKUNG/Mine-Mods/releases/download/v1.2.14/cobblemon-stat-editor-1.2.14.jar"><strong>Download PokéEdit 1.2.14 (.jar)</strong></a> · <a href="https://github.com/MCTEEKUNG/Mine-Mods/releases">All releases</a> · <a href="#installation">Installation</a></p>
 
 </div>
 
-![PokéEdit showing an Absol preview, six party slots, and the species and nickname fields](docs/pokeedit-party.png)
+![PokéEdit with the new potted plant icon, an Absol preview, and the species and nickname fields](docs/pokeedit-party.png)
 
 Open any of your six party slots to edit a Pokémon or add one to an empty slot. Pick a species, set its nature, build a moveset, and fine-tune its stats while you preview the Pokémon in 3D.
 

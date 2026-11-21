@@ -23,6 +23,7 @@ import net.minecraft.client.gui.tooltip.Tooltip;
 import net.minecraft.client.gui.widget.ButtonWidget;
 import net.minecraft.client.gui.widget.TextFieldWidget;
 import net.minecraft.text.Text;
+import net.minecraft.util.Identifier;
 import net.minecraft.util.Util;
 import net.minecraft.util.Language;
 import org.lwjgl.glfw.GLFW;
@@ -35,6 +36,8 @@ import java.util.Set;
 import java.util.function.Consumer;
 
 public final class PartyEditorScreen extends PokeEditScreen {
+    private static final Identifier EDITOR_ICON = Identifier.of("stateditor", "textures/gui/pokeedit_icon.png");
+    private static final int EDITOR_ICON_SIZE = 16;
     private static final int PARTY_SIZE = 6;
     private static final int GREEN = 0x81EBA2;
     private static final int RED = 0xFF8B93;
@@ -698,7 +701,8 @@ public final class PartyEditorScreen extends PokeEditScreen {
     public void renderBackground(DrawContext context, int mouseX, int mouseY, float delta) {
         applyBlur(delta);
         int right = left + panelWidth;
-        drawBall(context, left + 1, top + 2, 1);
+        context.drawTexture(EDITOR_ICON, left, top + 1, 0, 0, EDITOR_ICON_SIZE, EDITOR_ICON_SIZE,
+                EDITOR_ICON_SIZE, EDITOR_ICON_SIZE);
         heading(context, left + 19, top + 2);
         String owner = textRenderer.trimToWidth(snapshot.targetName() + "’s party", panelWidth - 115);
         context.drawTextWithShadow(textRenderer, owner, right - 26 - textRenderer.getWidth(owner), top + 5, SECONDARY_COLOR);
@@ -793,7 +797,7 @@ public final class PartyEditorScreen extends PokeEditScreen {
         }
     }
 
-    /** A small pixel Poké Ball marks the editor and the empty preview. */
+    /** Marks the empty Pokémon preview. */
     private static void drawBall(DrawContext ctx, int x, int y, int scale) {
         var matrices = ctx.getMatrices();
         matrices.push();

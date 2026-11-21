@@ -3,6 +3,7 @@
   "id": "stateditor",
   "version": "${version}",
   "name": "Cobblemon Stat Editor",
+  "icon": "assets/stateditor/textures/gui/pokeedit_icon.png",
   "description": "PokéEdit for Cobblemon parties, with species, nickname, moves, IVs, EVs, nature, and direct stat editing.",
   "authors": [
     "tee"
