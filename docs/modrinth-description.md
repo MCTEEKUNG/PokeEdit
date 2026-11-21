@@ -20,4 +20,4 @@ Use **Minecraft Java Edition 1.21.1**, **Java 21**, **Fabric Loader 0.17.2 or la
 
 Generative AI assisted with substantial portions of the mod’s code, item assets, translations, and this description.
 
-[Source code, commands, and support](https://github.com/MCTEEKUNG/Mine-Mods)
+[Source code, commands, and support](https://github.com/MCTEEKUNG/PokeEdit)

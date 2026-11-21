@@ -1,9 +1,11 @@
 <div align="center">
 
+<img src="docs/pokeedit-icon.png" width="96" height="96" alt="PokéEdit icon, a purple pixel-art plant pot">
+
 <h1>PokéEdit</h1>
 <p><strong>A party and stat editor for Cobblemon</strong></p>
 <p>Minecraft 1.21.1 · Fabric · Cobblemon 1.7.3 · Java 21</p>
-<p><a href="https://github.com/MCTEEKUNG/Mine-Mods/releases/download/v1.2.14/cobblemon-stat-editor-1.2.14.jar"><strong>Download PokéEdit 1.2.14 (.jar)</strong></a> · <a href="https://github.com/MCTEEKUNG/Mine-Mods/releases">All releases</a> · <a href="#installation">Installation</a></p>
+<p><a href="https://github.com/MCTEEKUNG/PokeEdit/releases/download/v1.2.14/cobblemon-stat-editor-1.2.14.jar"><strong>Download PokéEdit 1.2.14 (.jar)</strong></a> · <a href="https://github.com/MCTEEKUNG/PokeEdit/releases">All releases</a> · <a href="#installation">Installation</a></p>
 
 </div>
 
@@ -15,7 +17,7 @@ Open any of your six party slots to edit a Pokémon or add one to an empty slot.
 
 1. Use Minecraft Java Edition **1.21.1** with **Java 21** and **Fabric Loader 0.17.2 or later**. [Fabric installer](https://fabricmc.net/use/installer/)
 2. Install **Fabric API 0.116.6 or later** for Minecraft 1.21.1 and **Cobblemon 1.7.3** for Fabric. [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.21.1) · [Cobblemon 1.7.3](https://modrinth.com/mod/cobblemon/version/kF7CvxTo)
-3. Download the PokéEdit JAR and place it in your instance’s `mods` folder. Replace any older PokéEdit or Cobblemon Stat Editor JAR when you update. [Latest release](https://github.com/MCTEEKUNG/Mine-Mods/releases/latest)
+3. Download the PokéEdit JAR and place it in your instance’s `mods` folder. Replace any older PokéEdit or Cobblemon Stat Editor JAR when you update. [Latest release](https://github.com/MCTEEKUNG/PokeEdit/releases/latest)
 4. Start Minecraft and press **K**, or run `/stat ui`, to open your party.
 
 For multiplayer, install the same PokéEdit version on the **server** and each **client that uses the editor**. See the migration notes if you already use Party Manager. [Server and migration reference](docs/pokeedit-reference.md#upgrading)
@@ -65,4 +67,4 @@ With **JDK 21** selected, build and run the tests with the Gradle wrapper.
 
 The mod JAR is written to `build/libs/`. [Build and test reference](docs/pokeedit-reference.md#build-and-verify)
 
-[Report an issue](https://github.com/MCTEEKUNG/Mine-Mods/issues)
+[Report an issue](https://github.com/MCTEEKUNG/PokeEdit/issues)
